@@ -1,0 +1,10 @@
+codigo;nome;tipo;ataque;defesa;velocidade
+L1;Guará;LEVE;20;40;80
+L2;Sabiá;LEVE;22;38;85
+L3;Tuiuiú;LEVE;18;35;90
+M1;Onça;MEDIO;35;60;60
+M2;Arara;MEDIO;32;62;58
+M3;Ariranha;MEDIO;30;65;55
+P1;Tamanduá;PESADO;50;85;35
+P2;Jacaré;PESADO;55;90;30
+P3;Pirarucu;PESADO;60;95;28
